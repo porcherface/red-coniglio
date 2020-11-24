@@ -3,13 +3,21 @@
 
 red coniglio rises!
            (\__/) 
+           
             (•ㅅ•)      my gf telling the waitress
+            
         ＿ノ ヽ ノ＼__   my food is wrong
+        
       /　`/ ⌒Ｙ⌒ Ｙ　ヽ     
+      
      ( 　(三ヽ人　 /　 |     
+     
      |　ﾉ⌒＼ ￣￣ヽ　 ノ    
+     
      ヽ＿＿＿＞､＿＿_／ 
+     
 　　      ｜( 王 ﾉ〈 (\__/) 
+        
 　　      /ﾐ`ー―彡\  (•ㅅ•)  me
    
   
