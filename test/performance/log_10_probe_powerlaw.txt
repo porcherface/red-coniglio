@@ -1,0 +1,414 @@
+building..
+done?
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_001.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 11 1 1 1 101 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 1 stars
+this level has 4 valid commands
+this level has 1 valid conditions
+nf0 read: 2
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is  ^  0 
+
+Stars: 1 
+Steps: 6 
+Exitcode: 1 
+Energy: -60.000000 
+final beta: 0.000000
+acceptance rate: 1.000000
+Solution found after 16 iterations
+Annealing took 0.000127 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_002.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 1 101 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 21 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 1 stars
+this level has 4 valid commands
+this level has 2 valid conditions
+nf0 read: 3
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is g>  ^  0 
+
+Stars: 1 
+Steps: 13 
+Exitcode: 1 
+Energy: -61.000000 
+final beta: 0.000000
+acceptance rate: 1.000000
+Solution found after 4 iterations
+Annealing took 0.000029 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_003.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 102 1 1 102 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 23 1 1 102 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 3 stars
+this level has 4 valid commands
+this level has 4 valid conditions
+nf0 read: 3
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is  ^ g>  0 
+
+Stars: 3 
+Steps: 22 
+Exitcode: 1 
+Energy: -82.000000 
+final beta: 0.000000
+acceptance rate: 0.962264
+Solution found after 53 iterations
+Annealing took 0.000121 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_004.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 101 0 0 0 0 0 
+0 0 0 101 1 0 0 0 0 0 
+0 0 102 1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 21 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 3 stars
+this level has 5 valid commands
+this level has 4 valid conditions
+nf0 read: 4
+nf1 read: 5
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0  ,  ^  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 960769 accepted, current energy: -11.000000)
+2000000 done (message 2, 1921133 accepted, current energy: -11.000000)
+3000000 done (message 3, 2881419 accepted, current energy: -21.000000)
+4000000 done (message 4, 3842080 accepted, current energy: -21.000000)
+5000000 done (message 5, 4802628 accepted, current energy: -21.000000)
+6000000 done (message 6, 5763350 accepted, current energy: -21.000000)
+Solution!!
+
+Results: 
+Best Solution is  ^ g1 r0 g>  ,  >  ^  <  ^ r1 
+
+Stars: 3 
+Steps: 16 
+Exitcode: 1 
+Energy: -81.000000 
+final beta: 6.371000
+acceptance rate: 0.960529
+Solution found after 6371968 iterations
+Annealing took 30.759194 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_005.redlevel
+Loading level...
+level successfully loaded
+0 0 102 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 102 1 1 102 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 22 1 1 102 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 5 valid commands
+this level has 3 valid conditions
+nf0 read: 4
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is  ^ g> gR  0 
+
+Stars: 4 
+Steps: 42 
+Exitcode: 1 
+Energy: -94.000000 
+final beta: 0.000000
+acceptance rate: 0.934783
+Solution found after 46 iterations
+Annealing took 0.000414 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_006.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 12 1 1 1 1 1 1 102 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 102 1 1 1 102 0 1 0 
+0 0 1 0 0 0 1 0 1 0 
+0 0 1 0 102 3 102 0 1 0 
+0 0 1 0 1 0 0 0 1 0 
+0 0 1 0 102 1 1 1 102 0 
+0 0 102 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 8 stars
+this level has 4 valid commands
+this level has 4 valid conditions
+nf0 read: 6
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 909219 accepted, current energy: -54.000000)
+2000000 done (message 2, 1818131 accepted, current energy: -57.000000)
+3000000 done (message 3, 2726884 accepted, current energy: -58.000000)
+4000000 done (message 4, 3636250 accepted, current energy: -58.000000)
+5000000 done (message 5, 4545058 accepted, current energy: -58.000000)
+Solution!!
+
+Results: 
+Best Solution is  ^ g>  ^ b^ g<  0 
+
+Stars: 8 
+Steps: 53 
+Exitcode: 1 
+Energy: -135.000000 
+final beta: 5.336000
+acceptance rate: 0.908959
+Solution found after 5336913 iterations
+Annealing took 30.613793 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_007.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 11 1 1 3 1 1 1 102 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 9 stars
+this level has 6 valid commands
+this level has 4 valid conditions
+nf0 read: 6
+nf1 read: 4
+nf2 read: 4
+Initializing run...
+Starting probe is  ^  ^  ^  ^  ^  0  ,  ^  ^  ^  0  ,  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 980054 accepted, current energy: -46.000000)
+2000000 done (message 2, 1959496 accepted, current energy: -52.000000)
+3000000 done (message 3, 2939064 accepted, current energy: -53.000000)
+4000000 done (message 4, 3918748 accepted, current energy: -53.000000)
+5000000 done (message 5, 4898675 accepted, current energy: -53.000000)
+6000000 done (message 6, 5878490 accepted, current energy: -54.000000)
+7000000 done (message 7, 6858578 accepted, current energy: -54.000000)
+Solution!!
+
+Results: 
+Best Solution is g^  ^ g^  1  > r<  ,  ^ g< r1  0  , g<  <  > g1 
+
+Stars: 9 
+Steps: 38 
+Exitcode: 1 
+Energy: -143.000000 
+final beta: 7.563000
+acceptance rate: 0.979787
+Solution found after 7563393 iterations
+Annealing took 49.437323 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_008.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 101 2 3 2 31 2 3 101 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 2 stars
+this level has 7 valid commands
+this level has 4 valid conditions
+nf0 read: 5
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is b^ r< r<  B b0 
+
+Stars: 2 
+Steps: 33 
+Exitcode: 1 
+Energy: -73.000000 
+final beta: 0.153000
+acceptance rate: 0.965571
+Solution found after 153940 iterations
+Annealing took 0.525740 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_009.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 101 1 0 1 101 0 0 0 
+0 0 1 2 1 2 1 0 0 0 
+0 0 0 1 0 1 0 0 0 0 
+0 0 1 22 1 2 1 0 0 0 
+0 0 101 1 0 1 101 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 5 valid commands
+this level has 3 valid conditions
+nf0 read: 4
+nf1 read: 4
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0  ,  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 969728 accepted, current energy: -12.000000)
+Solution!!
+
+Results: 
+Best Solution is  ^ r^  1 r<  ,  ^ r< g0  1 
+
+Stars: 4 
+Steps: 48 
+Exitcode: 1 
+Energy: -94.000000 
+final beta: 1.120000
+acceptance rate: 0.969597
+Solution found after 1120918 iterations
+Annealing took 6.699336 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_010.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 3 1 1 3 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 1 0 0 1 0 102 102 0 
+0 0 1 0 0 1 0 103 102 0 
+0 0 3 2 1 1 0 1 0 0 
+0 0 0 1 0 1 0 1 0 0 
+0 11 1 2 0 2 1 2 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 6 valid commands
+this level has 4 valid conditions
+nf0 read: 3
+nf1 read: 2
+nf2 read: 2
+Initializing run...
+Starting probe is  ^  ^  0  ,  ^  0  ,  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is g< b>  1  ,  ^  0  , g0 b> 
+
+Stars: 4 
+Steps: 86 
+Exitcode: 1 
+Energy: -98.000000 
+final beta: 0.044000
+acceptance rate: 0.995734
+Solution found after 44065 iterations
+Annealing took 0.173176 seconds to execute 
+cleanup
+It took 119 seconds to complete this task...
+running...

@@ -1,0 +1,23 @@
+# REDCONIGLIO LEVEL DESCRIPTION FILE
+%name%=TestCase_002
+%map%=
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 1 101 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 21 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+3 0 0
+4 2
+0 1 2 3 
+0 2 
+$stars_positions$=(3,7)
+$start_position$=(7,4,U)
+$valid_symbols$=<,^,>,f0,g,
+$f0slot$=3.0
+$f1slot$=0.0
+$f2slot$=0.0

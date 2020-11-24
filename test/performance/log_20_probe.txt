@@ -1,0 +1,548 @@
+building..
+done?
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_001.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 11 1 1 1 101 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 1 stars
+this level has 4 valid commands
+this level has 1 valid conditions
+nf0 read: 2
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is  ^  0 
+
+Stars: 1 
+Steps: 6 
+Exitcode: 1 
+Energy: -60.000000 
+final beta: 0.000000
+acceptance rate: 1.000000
+Solution found after 38 iterations
+Annealing took 0.000137 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_002.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 2 1 1 101 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 1 0 0 0 0 0 
+0 0 0 0 21 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 1 stars
+this level has 4 valid commands
+this level has 2 valid conditions
+nf0 read: 3
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is g>  ^  0 
+
+Stars: 1 
+Steps: 13 
+Exitcode: 1 
+Energy: -61.000000 
+final beta: 0.000000
+acceptance rate: 1.000000
+Solution found after 4 iterations
+Annealing took 0.000026 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_003.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 102 1 1 102 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 1 0 0 1 0 0 0 
+0 0 0 23 1 1 102 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 3 stars
+this level has 4 valid commands
+this level has 4 valid conditions
+nf0 read: 3
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is g>  ^  0 
+
+Stars: 3 
+Steps: 22 
+Exitcode: 1 
+Energy: -82.000000 
+final beta: 0.000000
+acceptance rate: 1.000000
+Solution found after 30 iterations
+Annealing took 0.000103 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_004.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 101 0 0 0 0 0 
+0 0 0 101 1 0 0 0 0 0 
+0 0 102 1 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 21 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 3 stars
+this level has 5 valid commands
+this level has 4 valid conditions
+nf0 read: 4
+nf1 read: 5
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0  ,  ^  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 984850 accepted, current energy: -11.000000)
+2000000 done (message 2, 1969460 accepted, current energy: -12.000000)
+3000000 done (message 3, 2953823 accepted, current energy: -12.000000)
+4000000 done (message 4, 3937958 accepted, current energy: -21.000000)
+5000000 done (message 5, 4922103 accepted, current energy: -22.000000)
+6000000 done (message 6, 5906207 accepted, current energy: -21.000000)
+7000000 done (message 7, 6890320 accepted, current energy: -21.000000)
+8000000 done (message 8, 7874340 accepted, current energy: -22.000000)
+9000000 done (message 9, 8858001 accepted, current energy: -22.000000)
+10000000 done (message 10, 9842006 accepted, current energy: -22.000000)
+11000000 done (message 11, 10826122 accepted, current energy: -22.000000)
+12000000 done (message 12, 11810090 accepted, current energy: -22.000000)
+13000000 done (message 13, 12794110 accepted, current energy: -22.000000)
+14000000 done (message 14, 13777977 accepted, current energy: -22.000000)
+15000000 done (message 15, 14761925 accepted, current energy: -22.000000)
+16000000 done (message 16, 15745900 accepted, current energy: -22.000000)
+17000000 done (message 17, 16730030 accepted, current energy: -22.000000)
+18000000 done (message 18, 17714181 accepted, current energy: -22.000000)
+19000000 done (message 19, 18698427 accepted, current energy: -22.000000)
+20000000 done (message 20, 19682507 accepted, current energy: -22.000000)
+21000000 done (message 21, 20666428 accepted, current energy: -22.000000)
+22000000 done (message 22, 21650573 accepted, current energy: -22.000000)
+23000000 done (message 23, 22634629 accepted, current energy: -22.000000)
+24000000 done (message 24, 23618792 accepted, current energy: -22.000000)
+25000000 done (message 25, 24602931 accepted, current energy: -22.000000)
+26000000 done (message 26, 25587110 accepted, current energy: -22.000000)
+27000000 done (message 27, 26570781 accepted, current energy: -22.000000)
+28000000 done (message 28, 27554804 accepted, current energy: -22.000000)
+29000000 done (message 29, 28538845 accepted, current energy: -22.000000)
+30000000 done (message 30, 29523014 accepted, current energy: -22.000000)
+31000000 done (message 31, 30506957 accepted, current energy: -22.000000)
+32000000 done (message 32, 31491102 accepted, current energy: -22.000000)
+33000000 done (message 33, 32475261 accepted, current energy: -22.000000)
+34000000 done (message 34, 33459178 accepted, current energy: -22.000000)
+35000000 done (message 35, 34443254 accepted, current energy: -22.000000)
+36000000 done (message 36, 35427615 accepted, current energy: -22.000000)
+37000000 done (message 37, 36411685 accepted, current energy: -22.000000)
+38000000 done (message 38, 37395769 accepted, current energy: -22.000000)
+39000000 done (message 39, 38379856 accepted, current energy: -22.000000)
+40000000 done (message 40, 39363915 accepted, current energy: -22.000000)
+41000000 done (message 41, 40348180 accepted, current energy: -22.000000)
+42000000 done (message 42, 41332063 accepted, current energy: -22.000000)
+43000000 done (message 43, 42316222 accepted, current energy: -22.000000)
+44000000 done (message 44, 43300259 accepted, current energy: -22.000000)
+45000000 done (message 45, 44284401 accepted, current energy: -22.000000)
+46000000 done (message 46, 45268268 accepted, current energy: -22.000000)
+47000000 done (message 47, 46252322 accepted, current energy: -22.000000)
+48000000 done (message 48, 47236156 accepted, current energy: -22.000000)
+49000000 done (message 49, 48220256 accepted, current energy: -22.000000)
+50000000 done (message 50, 49204272 accepted, current energy: -22.000000)
+51000000 done (message 51, 50188575 accepted, current energy: -22.000000)
+52000000 done (message 52, 51172764 accepted, current energy: -22.000000)
+53000000 done (message 53, 52156732 accepted, current energy: -22.000000)
+54000000 done (message 54, 53140593 accepted, current energy: -22.000000)
+55000000 done (message 55, 54124579 accepted, current energy: -22.000000)
+56000000 done (message 56, 55108652 accepted, current energy: -22.000000)
+57000000 done (message 57, 56092895 accepted, current energy: -22.000000)
+58000000 done (message 58, 57077094 accepted, current energy: -22.000000)
+59000000 done (message 59, 58061178 accepted, current energy: -22.000000)
+60000000 done (message 60, 59045312 accepted, current energy: -22.000000)
+61000000 done (message 61, 60029154 accepted, current energy: -22.000000)
+62000000 done (message 62, 61013356 accepted, current energy: -22.000000)
+63000000 done (message 63, 61997244 accepted, current energy: -22.000000)
+64000000 done (message 64, 62981229 accepted, current energy: -22.000000)
+65000000 done (message 65, 63965305 accepted, current energy: -23.000000)
+66000000 done (message 66, 64949519 accepted, current energy: -23.000000)
+67000000 done (message 67, 65933446 accepted, current energy: -23.000000)
+68000000 done (message 68, 66917729 accepted, current energy: -23.000000)
+69000000 done (message 69, 67901792 accepted, current energy: -23.000000)
+70000000 done (message 70, 68885833 accepted, current energy: -23.000000)
+71000000 done (message 71, 69869679 accepted, current energy: -23.000000)
+72000000 done (message 72, 70853867 accepted, current energy: -23.000000)
+73000000 done (message 73, 71837736 accepted, current energy: -23.000000)
+74000000 done (message 74, 72821469 accepted, current energy: -23.000000)
+75000000 done (message 75, 73805330 accepted, current energy: -23.000000)
+76000000 done (message 76, 74789401 accepted, current energy: -23.000000)
+77000000 done (message 77, 75773360 accepted, current energy: -23.000000)
+78000000 done (message 78, 76757405 accepted, current energy: -23.000000)
+79000000 done (message 79, 77741473 accepted, current energy: -23.000000)
+80000000 done (message 80, 78725731 accepted, current energy: -23.000000)
+81000000 done (message 81, 79709730 accepted, current energy: -23.000000)
+82000000 done (message 82, 80694003 accepted, current energy: -23.000000)
+83000000 done (message 83, 81678193 accepted, current energy: -23.000000)
+84000000 done (message 84, 82662304 accepted, current energy: -23.000000)
+85000000 done (message 85, 83646499 accepted, current energy: -23.000000)
+86000000 done (message 86, 84630558 accepted, current energy: -23.000000)
+87000000 done (message 87, 85614724 accepted, current energy: -23.000000)
+88000000 done (message 88, 86598814 accepted, current energy: -23.000000)
+89000000 done (message 89, 87583137 accepted, current energy: -23.000000)
+90000000 done (message 90, 88567106 accepted, current energy: -23.000000)
+91000000 done (message 91, 89551145 accepted, current energy: -23.000000)
+92000000 done (message 92, 90535277 accepted, current energy: -23.000000)
+93000000 done (message 93, 91519481 accepted, current energy: -23.000000)
+94000000 done (message 94, 92503693 accepted, current energy: -23.000000)
+95000000 done (message 95, 93487475 accepted, current energy: -23.000000)
+96000000 done (message 96, 94471923 accepted, current energy: -23.000000)
+97000000 done (message 97, 95456088 accepted, current energy: -23.000000)
+98000000 done (message 98, 96440017 accepted, current energy: -23.000000)
+99000000 done (message 99, 97424211 accepted, current energy: -23.000000)
+100000000 done (message 100, 98408316 accepted, current energy: -23.000000)
+Results: 
+Best Solution is  1 g1  0 b1  , r1  ^  <  0 b0 
+
+Stars: 2 
+Steps: 41 
+Exitcode: 0 
+Energy: -24.000000 
+final beta: 100.000000
+acceptance rate: 0.984083
+Solution found after 100000000 iterations
+Annealing took 458.874794 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_005.redlevel
+Loading level...
+level successfully loaded
+0 0 102 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 1 0 0 0 0 0 0 0 
+0 0 102 1 1 102 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 22 1 1 102 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 5 valid commands
+this level has 3 valid conditions
+nf0 read: 4
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is  ^ g> gR  0 
+
+Stars: 4 
+Steps: 42 
+Exitcode: 1 
+Energy: -94.000000 
+final beta: 0.017000
+acceptance rate: 0.978639
+Solution found after 17883 iterations
+Annealing took 0.076925 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_006.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 12 1 1 1 1 1 1 102 0 
+0 0 0 0 0 0 0 0 1 0 
+0 0 102 1 1 1 102 0 1 0 
+0 0 1 0 0 0 1 0 1 0 
+0 0 1 0 102 3 102 0 1 0 
+0 0 1 0 1 0 0 0 1 0 
+0 0 1 0 102 1 1 1 102 0 
+0 0 102 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 8 stars
+this level has 4 valid commands
+this level has 4 valid conditions
+nf0 read: 6
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 964229 accepted, current energy: -57.000000)
+2000000 done (message 2, 1927642 accepted, current energy: -57.000000)
+3000000 done (message 3, 2891451 accepted, current energy: -57.000000)
+4000000 done (message 4, 3854917 accepted, current energy: -57.000000)
+5000000 done (message 5, 4818610 accepted, current energy: -58.000000)
+6000000 done (message 6, 5782184 accepted, current energy: -59.000000)
+7000000 done (message 7, 6745692 accepted, current energy: -59.000000)
+8000000 done (message 8, 7708773 accepted, current energy: -59.000000)
+9000000 done (message 9, 8672230 accepted, current energy: -59.000000)
+10000000 done (message 10, 9635944 accepted, current energy: -59.000000)
+11000000 done (message 11, 10599832 accepted, current energy: -59.000000)
+12000000 done (message 12, 11563713 accepted, current energy: -59.000000)
+13000000 done (message 13, 12527000 accepted, current energy: -65.000000)
+14000000 done (message 14, 13490353 accepted, current energy: -66.000000)
+15000000 done (message 15, 14453756 accepted, current energy: -65.000000)
+16000000 done (message 16, 15417308 accepted, current energy: -66.000000)
+17000000 done (message 17, 16380955 accepted, current energy: -66.000000)
+18000000 done (message 18, 17344247 accepted, current energy: -66.000000)
+19000000 done (message 19, 18307755 accepted, current energy: -66.000000)
+20000000 done (message 20, 19270797 accepted, current energy: -66.000000)
+Solution!!
+
+Results: 
+Best Solution is  ^ g>  ^ b^ g<  0 
+
+Stars: 8 
+Steps: 53 
+Exitcode: 1 
+Energy: -135.000000 
+final beta: 20.237000
+acceptance rate: 0.963541
+Solution found after 20237572 iterations
+Annealing took 106.533228 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_007.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 102 1 1 3 1 1 1 102 0 
+0 11 1 1 3 1 1 1 102 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 9 stars
+this level has 6 valid commands
+this level has 4 valid conditions
+nf0 read: 6
+nf1 read: 4
+nf2 read: 4
+Initializing run...
+Starting probe is  ^  ^  ^  ^  ^  0  ,  ^  ^  ^  0  ,  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 991955 accepted, current energy: -52.000000)
+2000000 done (message 2, 1983914 accepted, current energy: -52.000000)
+3000000 done (message 3, 2975850 accepted, current energy: -53.000000)
+4000000 done (message 4, 3967774 accepted, current energy: -54.000000)
+5000000 done (message 5, 4959464 accepted, current energy: -54.000000)
+6000000 done (message 6, 5951444 accepted, current energy: -55.000000)
+7000000 done (message 7, 6943053 accepted, current energy: -55.000000)
+8000000 done (message 8, 7934883 accepted, current energy: -55.000000)
+9000000 done (message 9, 8926921 accepted, current energy: -55.000000)
+10000000 done (message 10, 9918746 accepted, current energy: -55.000000)
+11000000 done (message 11, 10910790 accepted, current energy: -55.000000)
+12000000 done (message 12, 11902601 accepted, current energy: -57.000000)
+13000000 done (message 13, 12894556 accepted, current energy: -55.000000)
+14000000 done (message 14, 13886489 accepted, current energy: -73.000000)
+15000000 done (message 15, 14878241 accepted, current energy: -73.000000)
+16000000 done (message 16, 15870144 accepted, current energy: -73.000000)
+17000000 done (message 17, 16862151 accepted, current energy: -73.000000)
+18000000 done (message 18, 17854020 accepted, current energy: -75.000000)
+19000000 done (message 19, 18845930 accepted, current energy: -75.000000)
+20000000 done (message 20, 19837767 accepted, current energy: -75.000000)
+21000000 done (message 21, 20829718 accepted, current energy: -75.000000)
+22000000 done (message 22, 21821617 accepted, current energy: -75.000000)
+23000000 done (message 23, 22813521 accepted, current energy: -75.000000)
+24000000 done (message 24, 23805404 accepted, current energy: -75.000000)
+25000000 done (message 25, 24797474 accepted, current energy: -75.000000)
+26000000 done (message 26, 25789334 accepted, current energy: -75.000000)
+27000000 done (message 27, 26781035 accepted, current energy: -75.000000)
+28000000 done (message 28, 27772975 accepted, current energy: -75.000000)
+29000000 done (message 29, 28764945 accepted, current energy: -75.000000)
+30000000 done (message 30, 29756874 accepted, current energy: -75.000000)
+31000000 done (message 31, 30748693 accepted, current energy: -75.000000)
+Solution!!
+
+Results: 
+Best Solution is g< g^ g^ r1  ^  1  ,  ^ g0  0 g0  , g^  > r^  0 
+
+Stars: 9 
+Steps: 47 
+Exitcode: 1 
+Energy: -144.000000 
+final beta: 31.243000
+acceptance rate: 0.991893
+Solution found after 31243950 iterations
+Annealing took 194.904456 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_008.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 101 2 3 2 31 2 3 101 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 2 stars
+this level has 7 valid commands
+this level has 4 valid conditions
+nf0 read: 5
+nf1 read: 0
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  ^  0 
+Start!
+Solution!!
+
+Results: 
+Best Solution is r> r> rB  ^  0 
+
+Stars: 2 
+Steps: 24 
+Exitcode: 1 
+Energy: -72.000000 
+final beta: 0.468000
+acceptance rate: 0.985529
+Solution found after 468860 iterations
+Annealing took 1.499689 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_009.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 101 1 0 1 101 0 0 0 
+0 0 1 2 1 2 1 0 0 0 
+0 0 0 1 0 1 0 0 0 0 
+0 0 1 22 1 2 1 0 0 0 
+0 0 101 1 0 1 101 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 5 valid commands
+this level has 3 valid conditions
+nf0 read: 4
+nf1 read: 4
+nf2 read: 0
+Initializing run...
+Starting probe is  ^  ^  ^  0  ,  ^  ^  ^  0 
+Start!
+1000000 done (message 1, 988588 accepted, current energy: -10.000000)
+Solution!!
+
+Results: 
+Best Solution is g^  ^  1 r<  , r<  ^ r1  0 
+
+Stars: 4 
+Steps: 48 
+Exitcode: 1 
+Energy: -94.000000 
+final beta: 1.046000
+acceptance rate: 0.988543
+Solution found after 1046624 iterations
+Annealing took 5.993501 seconds to execute 
+
+*******************
+*Hello REDCONIGLIO!
+*******************
+Levelname: ../test/levels/TestCase_010.redlevel
+Loading level...
+level successfully loaded
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 3 1 1 3 0 0 0 0 
+0 0 1 0 0 1 0 0 0 0 
+0 0 1 0 0 1 0 102 102 0 
+0 0 1 0 0 1 0 103 102 0 
+0 0 3 2 1 1 0 1 0 0 
+0 0 0 1 0 1 0 1 0 0 
+0 11 1 2 0 2 1 2 0 0 
+0 0 0 0 0 0 0 0 0 0 
+this level has 4 stars
+this level has 6 valid commands
+this level has 4 valid conditions
+nf0 read: 3
+nf1 read: 2
+nf2 read: 2
+Initializing run...
+Starting probe is  ^  ^  0  ,  ^  0  ,  ^  0 
+Start!
+1000000 done (message 1, 996518 accepted, current energy: 0.000000)
+2000000 done (message 2, 1992733 accepted, current energy: 0.000000)
+3000000 done (message 3, 2988730 accepted, current energy: 0.000000)
+Solution!!
+
+Results: 
+Best Solution is b>  ^  1  , g<  0  , r2 g2 
+
+Stars: 4 
+Steps: 85 
+Exitcode: 1 
+Energy: -98.000000 
+final beta: 3.648000
+acceptance rate: 0.996271
+Solution found after 3648072 iterations
+Annealing took 14.078620 seconds to execute 
+cleanup
+It took 786 seconds to complete this task...
+running...
