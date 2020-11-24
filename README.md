@@ -5,7 +5,7 @@ red coniglio rises!
      
            (\__/) 
            
-            (•ㅅ•)      my gf telling the waitress
+            (•ㅅ•)      my gf telling the waitress
             
         ＿ノ ヽ ノ＼__   my food is wrong
         
