@@ -2,6 +2,7 @@
 <blink>
 
 red coniglio rises!
+     
            (\__/) 
            
             (•ㅅ•)      my gf telling the waitress
@@ -16,9 +17,9 @@ red coniglio rises!
      
      ヽ＿＿＿＞､＿＿_／ 
      
-　　      ｜( 王 ﾉ〈 (\__/) 
+　　    ｜( 王 ﾉ〈 (\__/) 
         
-　　      /ﾐ`ー―彡\  (•ㅅ•)  me
+　　    /ﾐ`ー―彡\  (•ㅅ•)  me
    
   
 red coniglio is a horrendously ugly version of a funny minigame called bianconiglio.
