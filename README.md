@@ -1,7 +1,7 @@
 # red-coniglio
 <blink>
-
 red coniglio rises!
+red coniglio is a horrendously ugly version of a funny minigame called bianconiglio. However...
 <pre>
             (\__/)  
             (•ㅅ•)      my gf telling the waitress
